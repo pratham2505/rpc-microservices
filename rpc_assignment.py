@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 """
-CS446/646 - Network Programming Assignment 2: Microservices with RPC and Load Balancing
-Student Starter Code
-
-Name: Pratham Patel
-ID: 02139496
+Microservices with RPC and Load Balancing
 """
 
 import socket
